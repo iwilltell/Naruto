@@ -1,7 +1,9 @@
 # 🍥 Naruto – The Shinobi World
 
 <p align="center">
-  <img src="https://media.tenor.com/0AVbKGY_MxMAAAAi/naruto-running.gif" width="180" alt="Naruto running"/>
+  <img src="https://raw.githubusercontent.com/iwilltell/naruto/main/public/naruto.jpeg"
+       width="250"
+       alt="Naruto Uzumaki"/>
 </p>
 
 <h3 align="center">Believe It! Dattebayo! 🍃</h3>

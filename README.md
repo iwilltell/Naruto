@@ -72,10 +72,6 @@ npm run dev
 npm run build
 ```
 
-## 🌐 Live Demo
-
-Coming soon!
-
 ## 🎯 Project Goals
 
 - Explore modern frontend development.
